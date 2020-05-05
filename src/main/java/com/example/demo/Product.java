@@ -26,6 +26,7 @@ public class Product {
         return id;
     }
 
+
     // other getters and setters...
 
     public void setId(int id) {
